@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 43,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 54,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 54,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 51,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 51,
+                        "endOffset": 167
+                    }
+                }
+            }
+        ]
+    }
+]

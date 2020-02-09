@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\build\\intermediates\\res\\merged\\debug\\transition\\detail_transition_enter.xml",
+        "source": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\src\\main\\res\\transition\\detail_transition_enter.xml"
+    },
+    {
+        "merged": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\build\\intermediates\\res\\merged\\debug\\transition\\detail_transition_exit.xml",
+        "source": "F:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\src\\main\\res\\transition\\detail_transition_exit.xml"
+    }
+]

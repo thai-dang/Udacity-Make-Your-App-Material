@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\62b628bc8060fceb897c224000cbb2f7d99868c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_528b613bb546623c70c54027cfaa959338472fc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\glide-3.7.0_39e2ba73561e6bf91ac2b6960b8b101bf6f85c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\278f7f9c57c3fd4611a1891bd7aba656ee3d5d33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_0bf509255af3e0010f4b138ef974e729c6da2d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\edeea53c49addc31f4c6198490a7de8be139db98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_60d8a6b54aafd23400045b27cd71c1cf08ad7a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\97d78349e0d184bf057d2736ef2d0e2ed7fa7cec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_67430e9a49df653e398ca679e380a60d72768403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\fc005cf309cedab9d48a45b7084b4dadb8254320\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_7f2bbd3583357420440bbf100d92a257a3d813d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\9a276600a04a7711268171e7238ee2febfabf4d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_281a2eb3238e53ee146807d3504bf148606421bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\volley_06c492cef4318f1b32f719d16241672f13bf81bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\e5dd8e4cc6a458b26b5b920b6bb806117175c5d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_64fd875ca28c3b6ca99ace47c1b0146b9f662a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.0\8a23146e1a8c7cb4758e3d3f62449213f1e51f67\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_8c931b722834c4c99b7192acc57ccd5719555442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_c19ca034ff9caf0affe6b10b9a7dbdf4bc08dd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\e5dd8e4cc6a458b26b5b920b6bb806117175c5d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_64fd875ca28c3b6ca99ace47c1b0146b9f662a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\volley_06c492cef4318f1b32f719d16241672f13bf81bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\9a276600a04a7711268171e7238ee2febfabf4d8\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_52e64b330cf1e0fc1b29db8abec5cd7d69f2e379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\62b628bc8060fceb897c224000cbb2f7d99868c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_528b613bb546623c70c54027cfaa959338472fc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a3b5e43981dfa268b58c987b7d776cd9ac53aaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\9a276600a04a7711268171e7238ee2febfabf4d8\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_52e64b330cf1e0fc1b29db8abec5cd7d69f2e379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a3b5e43981dfa268b58c987b7d776cd9ac53aaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_c19ca034ff9caf0affe6b10b9a7dbdf4bc08dd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\97d78349e0d184bf057d2736ef2d0e2ed7fa7cec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_67430e9a49df653e398ca679e380a60d72768403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.0\8a23146e1a8c7cb4758e3d3f62449213f1e51f67\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_8c931b722834c4c99b7192acc57ccd5719555442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\62b628bc8060fceb897c224000cbb2f7d99868c0\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_124a6efdae12f2ea3d2f9af857a89a4f78153afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\edeea53c49addc31f4c6198490a7de8be139db98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_60d8a6b54aafd23400045b27cd71c1cf08ad7a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\glide-3.7.0_39e2ba73561e6bf91ac2b6960b8b101bf6f85c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_9c2e2d43329515b57460a81378501da34f4d1bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\62b628bc8060fceb897c224000cbb2f7d99868c0\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_124a6efdae12f2ea3d2f9af857a89a4f78153afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_9c2e2d43329515b57460a81378501da34f4d1bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\a9176e15c016dc17848c4465e60fc3d219a37f60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_3d77c9b332d96cbe7da6a623d9f38a54d1b9ffac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\9a276600a04a7711268171e7238ee2febfabf4d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_281a2eb3238e53ee146807d3504bf148606421bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\volley_393b8cc649d1776ac6e24ac015d1e84ffc06c0f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\fc005cf309cedab9d48a45b7084b4dadb8254320\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_7f2bbd3583357420440bbf100d92a257a3d813d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\278f7f9c57c3fd4611a1891bd7aba656ee3d5d33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material-master\XYZReader\build\intermediates\pre-dexed\debug\classes_0bf509255af3e0010f4b138ef974e729c6da2d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thaih\.android\build-cache\a9176e15c016dc17848c4465e60fc3d219a37f60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="F:\Udacity\AdvancedAndroidDeveloperNanodegree\Udacity-Make-Your-App-Material\XYZReader\build\intermediates\pre-dexed\debug\classes_3d77c9b332d96cbe7da6a623d9f38a54d1b9ffac.jar" />
+    </item>
+
+</items>

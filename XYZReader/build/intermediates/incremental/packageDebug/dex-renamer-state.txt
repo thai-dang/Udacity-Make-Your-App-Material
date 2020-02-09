@@ -1,0 +1,4 @@
+#Wed Feb 05 19:53:00 PST 2020
+base.0=F\:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\Udacity\\AdvancedAndroidDeveloperNanodegree\\Udacity-Make-Your-App-Material\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
